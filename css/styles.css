@@ -1,0 +1,11 @@
+#letter {
+  display: none;
+  background-color: papayawhip;
+  margin:5%;
+  padding: 5%;
+  font-family: 'Indie Flower', cursive;
+}
+
+#letter p {
+  font-size: 1.5em;
+}
